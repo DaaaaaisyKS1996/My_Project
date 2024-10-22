@@ -1,2 +1,2 @@
-# My_Project
+# My_Projects
 My Projects during master's degree
